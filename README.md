@@ -1,3 +1,3 @@
 # JenBot-FR
-yes
+A small discord bot.
 
