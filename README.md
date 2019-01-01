@@ -1,2 +1,2 @@
 # JenBot-FR
-Ceci est un Bot.
+JenBot is a Discord bot, created by Jenoor.
